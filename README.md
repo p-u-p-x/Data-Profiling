@@ -18,7 +18,7 @@ Techniques: Feature engineering, model performance metrics, comparison of classi
 
 ## 3. Gold Market Trends & Anomaly Detection
 
-Files: [Gold_EDA](Gold_EDA.ipynb), gold_eda.py 
+Files: [Gold_EDA]([Gold_EDA.ipynb - Colab.pdf](https://github.com/p-u-p-x/Data-Profiling/blob/main/Gold_EDA.ipynb%20-%20Colab.pdf)), gold_eda.py 
 Description: Analyzes time series fluctuations and detects outliers in gold pricing data. 
 Techniques: Time series visualization, statistical anomaly detection.
 
